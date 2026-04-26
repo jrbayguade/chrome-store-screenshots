@@ -147,5 +147,5 @@ Adapted from [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/
 MIT
 
 
-Example:
+## Example:
 <img alt="01_hero" src="https://github.com/user-attachments/assets/ed1b94a5-9771-46c8-8df7-c5e14c808a10" />
