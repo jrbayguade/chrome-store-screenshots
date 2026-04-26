@@ -1,3 +1,11 @@
+---
+name: chrome-store-screenshots
+description: >
+  Generate production-ready Chrome Web Store marketing screenshots (1280x800 PNG).
+  Use when the user asks to create store listing graphics, promotional images, or
+  marketing screenshots for a Chrome extension or browser add-on. ...
+---
+
 # Chrome Web Store Screenshot Generator
 
 ## What this skill does
