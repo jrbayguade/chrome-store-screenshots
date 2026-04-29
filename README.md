@@ -1,3 +1,15 @@
+```text
+   ___ _  _ ___  ___  __  __ ___   ___ _____ ___  ___ ___ 
+  / __| || | _ \/ _ \|  \/  | __| / __|_   _/ _ \| _ \ __|
+ | (__| __ |   / (_) | |\/| | _|  \__ \ | || (_) |   / _| 
+  \___|_||_|_|_\\___/|_|  |_|___| |___/ |_| \___/|_|_\___|
+                                                          
+  ___ ___ ___ ___ _  _ ___ _  _  ___ _____ ___            
+ / __/ __| _ \ __| \| / __| || |/ _ \_   _/ __|           
+ \__ \ (__|   / _|| .` \__ \ __ | (_) || | \__ \           
+ |___/\___|_|_\___|_|\_|___/_||_|\___/ |_| |___/           
+```
+
 # Chrome Store Screenshots
 
 An AI skill for generating production-ready Chrome Web Store screenshots. Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), Cursor, Windsurf, and other AI-powered coding agents.
